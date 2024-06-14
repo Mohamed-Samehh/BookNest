@@ -3,7 +3,7 @@ Database Server Used: Wamp (PhpMyAdmin)
 Steps:
 1- Run Wamp and go to PhpMyAdmin.
 2- Enter username "root" and leave the password empty.
-3- Create Database in PhpMyAdmin called "booknest.sql".
-4- Click on import and choose the file in folder "Data" called "booknest".
+3- Create Database in PhpMyAdmin called "booknest".
+4- Click on import and choose the file in folder "Data" called "booknest.sql".
 5- Move Folder "Internet_project" to "C:\wamp64\www".
 6- To run project write in browser "http://localhost/Internet_project/".
