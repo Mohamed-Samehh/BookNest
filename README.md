@@ -36,7 +36,7 @@
 
 ## Admin-Side Pages
 
-- **Manage Admin `(Manage Admin.php)`:** Admins can add, update, and delete admin accounts using this page. It supports adding new admins with necessary details and updating existing accounts by admin ID, while also enabling the removal of admin accounts as needed.
+- **Manage Admin `(Manage Admin.php)`:** Admins can add, update, and delete admin accounts. This page facilitates adding new admins, updating existing accounts by admin ID, and removing admin accounts when necessary.
 - **Manage Client `(Manage Client.php)`:** 
 - **Manage Hotel `(Manage Hotel.php)`:** 
 
