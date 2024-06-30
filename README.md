@@ -12,7 +12,7 @@
   - **Dynamic Booking Confirmations:** Immediate confirmation of bookings with details saved in user accounts.
   - **Admin Dashboard:** A robust administration interface where admins can manage hotel listings, client information, and other admins information.
   - **Interactive UI Elements:** The website includes interactive UI elements such as dynamic forms for booking and searching, navigation bars, a blog section for latest news and updates, and a contact page for user inquiries.
-  - **Blog Integration:** A dedicated section for blog posts that provide valuable content related to travel, hotel reviews, and promotional offers, helping to engage users and provide them with useful travel tips.
+  - **Blog Integration:** A dedicated section for blog posts that provide valuable content related to travel, and hotel reviews, helping to engage users and provide them with useful travel tips.
   - **Customer Support and Feedback:** Integrated contact forms and support systems that allow users to get assistance and provide feedback on their experiences, which helps improve service quality.
 
 ## Technologies Used
