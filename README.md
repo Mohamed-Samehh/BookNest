@@ -36,13 +36,9 @@
 
 ## Admin-Side Pages
 
-- **Home `(home.php)`:** The landing page that welcomes users and provides Login, Sign up, and Logout options.
-- **About Us `(About Us.php)`:** Provides background information about the company and its objectives.
-- **Contact Us `(Contact Us.php)`:** Features a form for user inquiries and displays contact information.
-- **Account `(account.php)`:** Allows users to manage their profiles and view past bookings.
-- **Blog `(blog.php)`:** Displays other clients' reviews.
-- **Booking Confirmation `(Booking_confirm.php)`:** Shows details of the user’s booked rooms and provides options for modifications.
-- **Search and Booking `(Rooms.php)`, `(search_result.php)`:** Pages for searching hotels and displaying search results with booking options.
+- **Manage Admin `(Manage Admin.php)`:** 
+- **Manage Client `(Manage Client.php)`:** 
+- **Manage Hotel `(Manage Hotel.php)`:** 
 
 ## Conclusion
 
