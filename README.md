@@ -10,37 +10,35 @@
   - **User Authentication:** Secure login and registration functionalities for users to access personal accounts where they can manage their profiles and view booking history.
   - **Hotel Search and Booking:** An advanced search functionality that allows users to find hotels based on "Hotel name", "City", or "Country". Users can also view the rooms and make bookings directly through the website.
   - **Dynamic Booking Confirmations:** Immediate confirmation of bookings with details saved in user accounts.
-  - **Admin Dashboard:** A robust administration interface where admins can manage hotel listings, client information, and other admin settings.
-  - **Interactive UI Elements:** The website includes dynamic forms for booking and searching, navigation bars, a blog section for the latest news and updates, and a contact page for user inquiries.
-  - **Blog Integration:** A dedicated section for blog posts providing valuable travel tips and hotel reviews to engage users.
-  - **Customer Support and Feedback:** Integrated contact forms and support systems for user inquiries and feedback, enhancing service quality.
+  - **Admin Dashboard:** A robust administration interface where admins can manage hotel listings, client information, and other admins information.
+  - **Interactive UI Elements:** The website includes interactive UI elements such as dynamic forms for booking and searching, navigation bars, a blog section for latest news and updates, and a contact page for user inquiries.
+  - **Blog Integration:** A dedicated section for blog posts that provide valuable content related to travel, and hotel reviews, helping to engage users and provide them with useful travel tips.
+  - **Customer Support and Feedback:** Integrated contact forms and support systems that allow users to get assistance and provide feedback on their experiences, which helps improve service quality.
 
 ## Technologies Used
 
-- **HTML and CSS:** Frontend languages used for structuring and styling the website.
-- **JavaScript and jQuery:** Enhances frontend interactivity and manages user interactions.
-- **AJAX:** Asynchronous data loading for dynamic content updates.
-- **PHP:** Server-side scripting language for backend logic, database interactions, and session management.
-- **MySQL:** Relational database management system for data storage.
-- **PhpMyAdmin:** Web interface for managing MySQL databases.
+- **HTML and CSS:** Used for structuring and designing the frontend, ensuring a responsive and visually appealing interface.
+- **JavaScript and jQuery:** Enhances frontend interactivity, manages user inputs, and communicates with the backend for data processing.
+- **AJAX:** Allows for asynchronous data loading, enabling dynamic updates without reloading pages.
+- **PHP:** Handles server-side scripting for backend logic, database interactions, and session management.
+- **MySQL:** A relational database management system used for storing product and payment data.
+- **PhpMyAdmin:** A tool for managing MySQL databases via a web interface.
 
-## Pages
+## Client-Side Pages
 
-### Client-Side Pages
+- **Home (home.php):** The landing page that welcomes users and provides Login, Sign up, and Logout options.
+- **About Us (About Us.php):** Provides background information about the company and its objectives.
+- **Contact Us (Contact Us.php):** Features a form for user inquiries and displays contact information.
+- **Account (account.php):** Allows users to manage their profiles and view past bookings.
+- **Blog (blog.php):** Displays other clients' reviews.
+- **Booking Confirmation (Booking_confirm.php):** Shows details of the user’s booked rooms and provides options for modifications.
+- **Search and Booking (Rooms.php), (search_result.php):** Pages for searching hotels and displaying search results with booking options.
 
-- **Home `(home.php)`:** Welcome page with user login, sign up, and logout options.
-- **About Us `(About Us.php)`:** Information about the company's background and objectives.
-- **Contact Us `(Contact Us.php)`:** Contact form and contact information for user inquiries.
-- **Account `(account.php)`:** User profile management and booking history.
-- **Blog `(blog.php)`:** User-generated content, reviews, and travel tips.
-- **Booking Confirmation `(Booking_confirm.php)`:** Details of booked rooms with options for modifications.
-- **Search and Booking `(Rooms.php)` & `(search_result.php)`:** Hotel search and booking functionality.
+## Admin-Side Pages
 
-### Admin-Side Pages
-
-- **Manage Admin `(Manage Admin.php)`:** Admin management for adding, updating, and removing admin accounts.
-- **Manage Client `(Manage Client.php)`:** Client management for adding, updating, and removing client accounts.
-- **Manage Hotel `(Manage Hotel.php)`:** Hotel management for adding, updating, and removing hotel listings.
+- **Manage Admin (Manage Admin.php):** On this page, admins can add new admins, update existing admin accounts, and remove other admin accounts when necessary.
+- **Manage Client (Manage Client.php):** On this page, admins can add new clients, update client details, and remove clients from the system as necessary.
+- **Manage Hotel (Manage Hotel.php):** On this page, admins can add new hotels, update hotel details, and remove hotels from the system as needed.
 
 ## Conclusion
 
