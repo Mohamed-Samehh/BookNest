@@ -26,7 +26,7 @@
 
 ## Pages
 
-- **Home `(home.php)`:** The landing page that welcomes users and provides navigation to other sections.
+- **Home `(home.php)`:** The landing page that welcomes users and provides Login, Signup, and Logout options.
 - **About Us `(About Us.php)`:** Provides background information about the company and its objectives.
 - **Contact Us `(Contact Us.php)`:** Features a form for user inquiries and displays contact information.
 - **Account `(account.php)`:** Allows users to manage their profiles and view past bookings.
