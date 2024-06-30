@@ -34,7 +34,7 @@
 - **Account `(account.php)`:** User profile management and booking history.
 - **Blog `(blog.php)`:** User-generated content, reviews, and travel tips.
 - **Booking Confirmation `(Booking_confirm.php)`:** Details of booked rooms with options for modifications.
-- **Search and Booking `(Rooms.php`, `search_result.php)`:** Hotel search and booking functionality.
+- **Search and Booking `(Rooms.php)`, `(search_result.php)`:** Hotel search and booking functionality.
 
 ### Admin-Side Pages
 
