@@ -28,19 +28,19 @@
 
 ### Client-Side Pages
 
-- **Home (`home.php`):** Welcome page with user login, sign up, and logout options.
-- **About Us (`About Us.php`):** Information about the company's background and objectives.
-- **Contact Us (`Contact Us.php`):** Contact form and contact information for user inquiries.
-- **Account (`account.php`):** User profile management and booking history.
-- **Blog (`blog.php`):** User-generated content, reviews, and travel tips.
-- **Booking Confirmation (`Booking_confirm.php`):** Details of booked rooms with options for modifications.
-- **Search and Booking (`Rooms.php`, `search_result.php`):** Hotel search and booking functionality.
+- **Home `(home.php)`:** Welcome page with user login, sign up, and logout options.
+- **About Us `(About Us.php)`:** Information about the company's background and objectives.
+- **Contact Us `(Contact Us.php)`:** Contact form and contact information for user inquiries.
+- **Account `(account.php)`:** User profile management and booking history.
+- **Blog `(blog.php)`:** User-generated content, reviews, and travel tips.
+- **Booking Confirmation `(Booking_confirm.php)`:** Details of booked rooms with options for modifications.
+- **Search and Booking `(Rooms.php`, `search_result.php)`:** Hotel search and booking functionality.
 
 ### Admin-Side Pages
 
-- **Manage Admin (`Manage Admin.php`):** Admin management for adding, updating, and removing admin accounts.
-- **Manage Client (`Manage Client.php`):** Client management for adding, updating, and removing client accounts.
-- **Manage Hotel (`Manage Hotel.php`):** Hotel management for adding, updating, and removing hotel listings.
+- **Manage Admin `(Manage Admin.php)`:** Admin management for adding, updating, and removing admin accounts.
+- **Manage Client `(Manage Client.php)`:** Client management for adding, updating, and removing client accounts.
+- **Manage Hotel `(Manage Hotel.php)`:** Hotel management for adding, updating, and removing hotel listings.
 
 ## Conclusion
 
