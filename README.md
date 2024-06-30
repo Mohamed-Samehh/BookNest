@@ -8,7 +8,7 @@
 
 - BookNest offers a range of features to ensure a seamless user experience from searching for hotels to booking a stay:
   - **User Authentication:** Secure login and registration functionalities for users to access personal accounts where they can manage their profiles and view booking history.
-  - **Hotel Search and Booking:** An advanced search functionality that allows users to find hotels based on "Hotel name", "City", or "Country". Users can also view the rooms and make bookings directly through the website.
+  - **Hotel Search and Booking:** An advanced search functionality that allows users to find hotels based on `"Hotel name"`, `"City"`, or `"Country"`. Users can also view the rooms and make bookings directly through the website.
   - **Dynamic Booking Confirmations:** Immediate confirmation of bookings with details saved in user accounts.
   - **Admin Dashboard:** A robust administration interface where admins can manage hotel listings, client information, and other admins information.
   - **Interactive UI Elements:** The website includes interactive UI elements such as dynamic forms for booking and searching, navigation bars, a blog section for latest news and updates, and a contact page for user inquiries.
@@ -24,21 +24,23 @@
 - **MySQL:** A relational database management system used for storing product and payment data.
 - **PhpMyAdmin:** A tool for managing MySQL databases via a web interface.
 
-## Client-Side Pages
+## Pages
 
-- **Home (home.php):** The landing page that welcomes users and provides Login, Sign up, and Logout options.
-- **About Us (About Us.php):** Provides background information about the company and its objectives.
-- **Contact Us (Contact Us.php):** Features a form for user inquiries and displays contact information.
-- **Account (account.php):** Allows users to manage their profiles and view past bookings.
-- **Blog (blog.php):** Displays other clients' reviews.
-- **Booking Confirmation (Booking_confirm.php):** Shows details of the user’s booked rooms and provides options for modifications.
-- **Search and Booking (Rooms.php), (search_result.php):** Pages for searching hotels and displaying search results with booking options.
+### Client-Side Pages
 
-## Admin-Side Pages
+- **Home (`home.php`):** The landing page that welcomes users and provides Login, Sign up, and Logout options.
+- **About Us (`About Us.php`):** Provides background information about the company and its objectives.
+- **Contact Us (`Contact Us.php`):** Features a form for user inquiries and displays contact information.
+- **Account (`account.php`):** Allows users to manage their profiles and view past bookings.
+- **Blog (`blog.php`):** Displays other clients' reviews.
+- **Booking Confirmation (`Booking_confirm.php`):** Shows details of the user’s booked rooms and provides options for modifications.
+- **Search and Booking (`Rooms.php`), (`search_result.php`):** Pages for searching hotels and displaying search results with booking options.
 
-- **Manage Admin (Manage Admin.php):** On this page, admins can add new admins, update existing admin accounts, and remove other admin accounts when necessary.
-- **Manage Client (Manage Client.php):** On this page, admins can add new clients, update client details, and remove clients from the system as necessary.
-- **Manage Hotel (Manage Hotel.php):** On this page, admins can add new hotels, update hotel details, and remove hotels from the system as needed.
+### Admin-Side Pages
+
+- **Manage Admin (`Manage Admin.php`):** On this page, admins can add new admins, update existing admin accounts, and remove other admin accounts when necessary.
+- **Manage Client (`Manage Client.php`):** On this page, admins can add new clients, update client details, and remove clients from the system as necessary.
+- **Manage Hotel (`Manage Hotel.php`):** On this page, admins can add new hotels, update hotel details, and remove hotels from the system as needed.
 
 ## Conclusion
 
