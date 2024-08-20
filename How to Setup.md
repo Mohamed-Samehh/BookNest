@@ -5,7 +5,7 @@
    - Access PhpMyAdmin from WampServer.
 
 2. **Login to PhpMyAdmin:**
-   - Use Username `"root"` and leave the Password field empty.
+   - Use Username `"root"` and leave the password field empty if no password is set for the root user. Otherwise, enter the appropriate password.
    - Make sure Server choice is set to `"MySQL"`.
 
 3. **Create Database:**
